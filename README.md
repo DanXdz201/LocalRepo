@@ -1,4 +1,4 @@
 # LocalRepo
 Repositorio de pruebas locales
 
-Se hacen los cambios para poder probar la funcionalidad del git local
+Modificamos el Repo para probar la funcionalidad del git local
